@@ -37,7 +37,7 @@
   "author": "Hakula",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hakula139/Y86-64-Simulator.git"
+    "url": "https://github.com/hakulattic/Y86-64-Simulator.git"
   },
   "license": "GPL-3.0"
 }
